@@ -24,11 +24,11 @@ repository               : "Baiyululu/Baiyululu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Yu Bai/白钰"
+  pronouns         : She  
+  bio              : "Patient hoping for a Degree"
+  location         : "Beijing"
+  employer         : "Peking University"
   uri              : # URL
   email            : "none@example.org" 
 
