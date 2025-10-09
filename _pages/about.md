@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in Anantomy Department at the [Health Science Center](https://www.nihds.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). I am fortunate to be advised by [Prof. Zhang](). My research interests include Machine Learning and Neuroscience.
+I am a first-year Ph.D. student in Anantomy Department at the [Health Science Center](https://www.nihds.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). I am fortunate to be advised by [Prof. Zhang](). My research interests include Neuroscience.
 
 You can find my CV here: [Baiyu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
