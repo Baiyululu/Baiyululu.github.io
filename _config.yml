@@ -23,7 +23,7 @@ repository               : "Baiyululu/Baiyululu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "github头像.png"
   name             : "Yu Bai/白钰"
   pronouns         :  
   bio              : "Patient hoping for a Degree"
