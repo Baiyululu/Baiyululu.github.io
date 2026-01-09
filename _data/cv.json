@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Jade Bai",
+    "email": "baiyu88pku@163.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://Baiyululu.github.io",
+    "summary": "A Ph.D. student at Peking University",
     "location": {
-      "address": "",
+      "address": "Haidian,Beijing",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Beijing",
+      "countryCode": "China",
       "region": ""
     },
     "profiles": [
@@ -25,104 +25,70 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Jade Bai",
+        "url": "https://Baiyululu.github.qo/academicpages"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Peking University",
+      "area": "Ph.D in Human Anantomy",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2025 Sep",
+      "endDate": "2029 July",
+      "gpa": null,
+      "courses": [Python,Pharmalogy]
+    },
+    {
+      "institution": "Peking University",
+      "area": "M.S. in Human Anantomy",
+      "studyType": "",
+      "startDate": "2022 Sep",
+      "endDate": "2025 July",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "China Medical University",
+      "area": "B.S. in Medical Laboratory Technology ",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2018 Sep",
+      "endDate": "2022 July",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [Proficient in stereotaxic injection, western blotting (protein immunoblotting), quantitative reverse transcription polymerase chain reaction (qRT-PCR), cell/tissue HE staining, immunofluorescence, cell culture techniques, general animal experimentation techniques (certified for laboratory animal handling), genotyping of genetically edited animals, and computational & bioinformatics skills.],
+  "languages": [Chinese (native), English (conversational),Korean(conversational)],
+  "interests": [Cooking],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
+      "name": "Mechanistic study of hypothalamic arcuate kisspeptin neurons regulating perimenopausal visceral fat accumulation via the dorsomedial hypothalamic nucleus.",
       "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
+      "releaseDate": "maybe 2026",
       "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "summary": "Under Review - Major Revision"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
+      "name": "Mapping the 5-HTergic neural pathways in perimenopausal mice and elucidating the role of oestrogen receptors in 5-HT neurotransmission. ",
+      "publisher": "Journal 5",
+      "releaseDate": "2024",
       "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "summary": "none"
     },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
+      "name": "Oral Presentation about the 5-HTergic Neural Pathways in Perimenopause.",
+      "event": "The 37th Annual Conference of the Chinese Society of Anatomy",
+      "date": "2023-07",
+      "location": "Chengdu, China",
       "description": ""
     },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
+    
   ],
   "teaching": [
     {
