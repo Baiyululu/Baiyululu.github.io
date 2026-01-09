@@ -34,13 +34,12 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : # URL - Update with the correct link to your profil
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/0009-0006-5826-0288"
+  orcid            : "https://orcid.org/0009-0006-5826-0288"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 
@@ -54,14 +53,14 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  Duolinguo        : "arielbbbai" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "Jade.yubai" 
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -82,12 +81,12 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: ''
   manuscripts:
     title: 'Mapping the 5-HTergic neural pathways in perimenopausal mice and elucidating the role of
 oestrogen receptors in 5-HT neurotransmission'    
   conferences:
-    title: 'Conference Papers'
+    title: ''
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
