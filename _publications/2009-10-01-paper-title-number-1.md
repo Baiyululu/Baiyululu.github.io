@@ -2,9 +2,9 @@
 title: "Hot Flash"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+permalink: /publication/Hot Flash
+excerpt: ' Mapping the 5-HTergic neural pathways in perimenopausal mice and elucidating the role of oestrogen receptors in 5-HT neurotransmission.'
+date: 2024
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/hotflash_paper1.pdf'
