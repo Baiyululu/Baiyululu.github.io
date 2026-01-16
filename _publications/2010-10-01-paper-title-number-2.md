@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Graduate research, Peking University'
-date: 2022-2026
+date: 2024-01-01
 venue: 'My first Journal(Under Review - Major Revision)'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
