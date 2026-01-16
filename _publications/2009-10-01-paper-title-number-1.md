@@ -2,7 +2,7 @@
 title: "Hot Flash"
 collection: publications
 category: manuscripts
-permalink: /publication/Hot Flash
+permalink: /publication/Hot-Flash
 excerpt: ' Mapping the 5-HTergic neural pathways in perimenopausal mice and elucidating the role of oestrogen receptors in 5-HT neurotransmission.'
 date: 2024
 venue: 'Journal 1'
