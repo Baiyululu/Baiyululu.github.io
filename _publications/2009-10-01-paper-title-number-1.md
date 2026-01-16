@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/Hot-Flash
 excerpt: ' Mapping the 5-HTergic neural pathways in perimenopausal mice and elucidating the role of oestrogen receptors in 5-HT neurotransmission.'
-date: 2024
+date: 2024-01-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/hotflash_paper1.pdf'
