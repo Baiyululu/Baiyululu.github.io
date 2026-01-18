@@ -6,7 +6,7 @@ permalink: /portfolio/diabetes-risk-prediction
 date: 2026-01-18
 excerpt: "基于10万条临床记录的糖尿病风险预测模型构建与分析"
 header:
-  teaser: /images/portfolio/diabetes-risk-prediction/diabetes_visualization.png
+  teaser: /images/portfolio/diabetes-risk-prediction/1.png
 tags:
   - 糖尿病预测
   - 机器学习
